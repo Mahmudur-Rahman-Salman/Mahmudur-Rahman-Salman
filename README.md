@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmudur Rahman Salman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudur-rahman-salman" alt="mahmudur-rahman-salman" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
