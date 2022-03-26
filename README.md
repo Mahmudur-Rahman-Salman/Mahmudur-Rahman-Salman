@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmudur Rahman Salman</h1>
 <!-- <h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
-<img src="https://i.ibb.co/B2784pn/salman.png" alt="salman"/>
+<img src="https://i.ibb.co/B2784pn/salman.png" style={widht:"1000px"} alt="salman"/>
 
 
 - 🌱 I’m currently learning **Web Development**
