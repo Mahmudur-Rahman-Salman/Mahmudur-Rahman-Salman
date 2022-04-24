@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmudur Rahman Salman</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h3 align="center">A passionate Front End Developer from Bangladesh</h3>
 <img src="https://i.ibb.co/B2784pn/salman.png" style="width:1024px" alt="salman"/>
 
 
