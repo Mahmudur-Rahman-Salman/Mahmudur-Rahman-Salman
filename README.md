@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudur-rahman-salman&show_icons=true&locale=en" alt="mahmudur-rahman-salman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudur-rahman-salman&" alt="mahmudur-rahman-salman" /></p>
+
+
+[![mahmudur-rahman-salman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudur-rahman-salman)](https://github.com/mahmudur-rahman-salman)
