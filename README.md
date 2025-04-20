@@ -32,4 +32,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudur-rahman-salman&" alt="mahmudur-rahman-salman" /></p>
 
 
-[![mahmudur-rahman-salman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudur-rahman-salman)](https://github.com/mahmudur-rahman-salman)
